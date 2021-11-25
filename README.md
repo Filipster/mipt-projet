@@ -19,7 +19,7 @@ Rectangle features can be computed very rapidly using an intermediate representa
 
 
 # Conclusion
-![](images/CodeCogsEqn (1).gif)
+![eq](images/CodeCogsEqn (1).gif)
 
 ![ROC](images/990517-fig-7-source-large.gif)
 
