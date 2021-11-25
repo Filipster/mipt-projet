@@ -11,8 +11,17 @@ Here we will work with face detection. Initially, the algorithm needs a lot of p
 ![haar_features](https://user-images.githubusercontent.com/55165630/143433964-254993ff-def9-4294-8902-e2c100119224.jpg)
 
 
-#Compute Imagem
+# Compute Imagem
 
 Rectangle features can be computed very rapidly using an intermediate representation for the image which we call the integral image. The integral image at location x,y contains the sum of the pixels above and to the left of x,y, inclusive:
 
 ![equation](images/equacao.png)
+
+
+
+
+
+# References
+
+1. Paul Viola and Michael J. Jones. Robust real-time face detection. International Journal of Computer Vision, 57(2):137–154, 2004. [224]
+2. Rainer Lienhart and Jochen Maydt. An extended set of haar-like features for rapid object detection. In Image Processing. 2002. Proceedings. 2002 International Conference on, volume 1, pages I–900. IEEE, 2002. [132]
