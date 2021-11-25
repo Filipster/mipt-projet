@@ -15,4 +15,4 @@ Here we will work with face detection. Initially, the algorithm needs a lot of p
 
 Rectangle features can be computed very rapidly using an intermediate representation for the image which we call the integral image. The integral image at location x,y contains the sum of the pixels above and to the left of x,y, inclusive:
 
-![equation](/mipt-projet/images/equacao.png)
+![equation](images/equacao.png)
