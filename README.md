@@ -17,9 +17,6 @@ Rectangle features can be computed very rapidly using an intermediate representa
 
 ![equation](images/equacao-removebg-preview.png)
 
-and
-
-![equatioss](images/CodeCogsEqn (1).gif)
 
 
 # Conclusion
