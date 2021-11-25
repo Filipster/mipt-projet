@@ -21,6 +21,8 @@ Rectangle features can be computed very rapidly using an intermediate representa
 
 # Conclusion
 
+It's our ROC curve to understand the performance of the detector in a real-time experient, the detector was run using a step size of 1.0. To create the ROC curve the threshold of the final layer classifier is adjusted from −∞ to +∞.
+
 ![ROC](images/990517-fig-7-source-large.gif)
 
 
