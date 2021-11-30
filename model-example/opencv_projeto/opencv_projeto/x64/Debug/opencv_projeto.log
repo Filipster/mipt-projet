@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Lipster\source\repos\opencv_projeto\opencv_projeto\main.cpp(13,95): warning C4244: 'argumento': conversão de 'double' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Lipster\source\repos\opencv_projeto\opencv_projeto\main.cpp(13,62): warning C4244: 'argumento': conversão de 'double' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=int
+          ]
+  opencv_projeto.vcxproj -> C:\Users\Lipster\source\repos\opencv_projeto\x64\Debug\opencv_projeto.exe
