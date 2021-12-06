@@ -19,10 +19,9 @@ Rectangle features can be computed very rapidly using an intermediate representa
 
 # Main Project
 
+It's a small-objects detector that can recognize answers in paper writen by a human, with some such geometrical specifications. The machine can understand and correlate each black-ball for an answer in the paper. After that, store the result and count the result by the question number.
 
 ![Tela Principal](https://user-images.githubusercontent.com/55165630/144887419-97e013e0-f72f-4135-8054-52987be8c5b3.gif)
-
-
 
 
 # Conclusion
