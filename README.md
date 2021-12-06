@@ -20,7 +20,8 @@ Rectangle features can be computed very rapidly using an intermediate representa
 # Main Project
 
 
-![Tela principal](https://user-images.githubusercontent.com/55165630/144887192-2883500a-9ff2-4d9c-b1fa-1b546a5c3b32.gif)
+![Tela Principal](https://user-images.githubusercontent.com/55165630/144887419-97e013e0-f72f-4135-8054-52987be8c5b3.gif)
+
 
 
 
