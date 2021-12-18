@@ -2,8 +2,7 @@
 #include "opencv2/highgui.hpp"
 #include "opencv2/opencv.hpp"
 #include "libraries_opencv.h"
-#include <iostream>
-#include<conio.h>
+#include "classes.h"
 
 void main(int argc, char** argv)
 {
