@@ -29,3 +29,5 @@ It's our ROC curve to understand the performance of the detector in a real-time 
 
 1. Paul Viola and Michael J. Jones. Robust real-time face detection. International Journal of Computer Vision, 57(2):137–154, 2004. [224]
 2. Rainer Lienhart and Jochen Maydt. An extended set of haar-like features for rapid object detection. In Image Processing. 2002. Proceedings. 2002 International Conference on, volume 1, pages I–900. IEEE, 2002. [132]
+3. https://www.w3.org/TR/css-device-adapt-1/#translate-meta-to-at-viewport
+4. https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
